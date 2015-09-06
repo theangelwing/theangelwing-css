@@ -1,6 +1,5 @@
 # theangelwing-css
 CSS code for my weblog
 
-Use these codes to make a very simple web page
-this code is intended for educational use only
-a very very basic in creating a web page (no template) using html and CSS
+Gunakan kode ini sebagai referensi untuk membuat website sederhana menggunakan metode dasar untuk pemula.
+Perhatikan bahwa styling tidak hanya menggunakan external CSS dari file style.css, tetapi juga di dalam file html itu sendiri untuk styling elemen-elemen yang terpisah.
